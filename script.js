@@ -1,5 +1,5 @@
 function validaCPF(cpf) {
-  console.log(cpf.length);
+ console.log(cpf.length);
   if (cpf.length != 11) {
     return false;
   } else {
